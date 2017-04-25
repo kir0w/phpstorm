@@ -4,6 +4,7 @@
       <mapping ext="markdown" type="Markdown" />
       <mapping pattern="doctrine" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
     </extensionMap>
