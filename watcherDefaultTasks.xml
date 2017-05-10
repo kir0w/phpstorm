@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="fix $FilePath$ --config &quot;https://github.com/AdMeGroup/DevTool/blob/master/cs-fixers/phpcsfixer.php_cs&quot;" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
