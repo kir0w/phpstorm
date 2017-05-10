@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="markdown" type="Markdown" />
+      <mapping pattern=".editorconfig" type="Native" />
       <mapping pattern="doctrine" type="PLAIN_TEXT" />
-      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
